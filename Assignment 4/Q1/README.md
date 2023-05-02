@@ -1,4 +1,4 @@
-For Windows
+## For Windows
 
 Compile the program with:- 
 g++ .\main.cpp routing_algo.cpp -o rip
